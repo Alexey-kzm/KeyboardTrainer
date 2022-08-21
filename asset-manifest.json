@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/KeyboardTrainer/static/css/main.63cb7b41.css",
+    "main.css": "/KeyboardTrainer/static/css/main.2e2e4df8.css",
     "main.js": "/KeyboardTrainer/static/js/main.e812e415.js",
     "index.html": "/KeyboardTrainer/index.html",
-    "main.63cb7b41.css.map": "/KeyboardTrainer/static/css/main.63cb7b41.css.map",
+    "main.2e2e4df8.css.map": "/KeyboardTrainer/static/css/main.2e2e4df8.css.map",
     "main.e812e415.js.map": "/KeyboardTrainer/static/js/main.e812e415.js.map"
   },
   "entrypoints": [
-    "static/css/main.63cb7b41.css",
+    "static/css/main.2e2e4df8.css",
     "static/js/main.e812e415.js"
   ]
 }
